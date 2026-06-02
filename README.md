@@ -25,11 +25,11 @@ e genera report PDF professionali in 5 minuti.
 
 ## Screenshot
 
-![Scanner](screenshot-scanner.jpeg)
-![Inventario](screenshot-inventario.jpeg)
-![Mappa](screenshot-mappa.jpeg)
-![Priorità](screenshot-priorita.jpeg)
-![Impostazioni](screenshot-impostazioni.jpeg)
+![Scanner](image/screenshot-scanner.jpeg)
+![Inventario](image/screenshot-inventario.jpeg)
+![Mappa](image/screenshot-mappa.jpeg)
+![Priorità](image/screenshot-priorita.jpeg)
+![Impostazioni](image/screenshot-impostazioni.jpeg)
 
 ---
 
