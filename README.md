@@ -39,7 +39,7 @@ e genera report PDF professionali in 5 minuti.
 | Prodotto | Prezzo | Link |
 |---|---|---|
 | Licenza singola | €49 una tantum | [Acquista](https://netscanpro.gumroad.com/l/ijasr) |
-| Abbonamento | €49/mese · €420/anno | [Abbonati](https://netscanpro.gumroad.com/l/ktsxb) |
+| Abbonamento | €19/mese · 149/anno | [Abbonati](https://netscanpro.gumroad.com/l/ktsxb) |
 
 Ogni licenza include 1 installazione, aggiornamenti e supporto via email.
 
