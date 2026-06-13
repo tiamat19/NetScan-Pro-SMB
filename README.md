@@ -1,60 +1,60 @@
 # 📡 NetScan Pro
 
-**Cybersecurity Assessment Tool per reti locali — per consulenti IT e PMI italiane.**
+**Cybersecurity Assessment Tool for local networks — for IT consultants and SMBs.**
 
-Scansiona la rete, identifica ogni dispositivo, rileva vulnerabilità CVE note
-e genera report PDF professionali in 5 minuti.
-
----
-
-## Funzionalità v1.1.0
-
-- 🔍 Discovery dispositivi via ARP con rilevamento vendor
-- 🧠 Identificazione ruolo dispositivo con score di confidenza
-- ⚠️ CVE Database integrato (EternalBlue, BlueKeep, OpenSSH RCE...)
-- 🛡️ **Conformità NIS2 / ACN 379907-2025** automatica
-- 📊 Security Score per dispositivo + valutazione A-F
-- 📄 Report PDF professionale con sezione titolare (non tecnica)
-- 📋 Piano di remediation prioritizzato
-- 📅 Scansioni automatiche settimanali con alert email
-- 🗺️ Mappa topologia di rete interattiva
-- 📌 Baseline — confronto con stato precedente
-- 📋 Inventario asset con alias e export CSV
-- 🏷️ White-label — logo aziendale nel PDF
-- 🔐 Autenticazione con token di setup monouso
-- 🇮🇹 / 🇬🇧 Interfaccia bilingue
+Scans your network, identifies every device, detects known CVE vulnerabilities,
+and generates professional PDF reports in 5 minutes.
 
 ---
 
-## Requisiti
+## Features v1.1.0
 
-- Windows 10/11 (64bit)
-- Privilegi Amministratore
-- Connessione di rete
+- 🔍 Device discovery via ARP with vendor detection
+- 🧠 Device role identification with confidence score
+- ⚠️ Integrated CVE Database (EternalBlue, BlueKeep, OpenSSH RCE...)
+- 🛡️ Automatic **NIS2 / ACN 379907-2025 compliance** check
+- 📊 Security Score per device + A-F rating
+- 📄 Professional PDF report with non-technical executive section
+- 📋 Prioritized remediation plan
+- 📅 Automated weekly scans with email alerts
+- 🗺️ Interactive network topology map
+- 📌 Baseline — comparison with previous scan state
+- 📋 Asset inventory with aliases and CSV export
+- 🏷️ White-label — your company logo on the PDF
+- 🔐 Authentication via one-time setup token
+- 🇮🇹 / 🇬🇧 Bilingual interface
 
 ---
 
-## Acquisto
+## Requirements
 
-| Prodotto | Prezzo | Link |
+- Windows 10/11 (64-bit)
+- Administrator privileges
+- Network connection
+
+---
+
+## Purchase
+
+| Product | Price | Link |
 |---|---|---|
-| Licenza singola | €49 una tantum | [Acquista](https://netscanpro.gumroad.com/l/ijasr) |
-| Abbonamento | €19/mese · 149/anno | [Abbonati](https://netscanpro.gumroad.com/l/ktsxb) |
+| Single license | €49 one-time | [Buy](https://netscanpro.gumroad.com/l/ijasr) |
+| Subscription | €19/month · €149/year | [Subscribe](https://netscanpro.gumroad.com/l/ktsxb) |
 
-Ogni licenza include 1 installazione, aggiornamenti e supporto via email.
+Each license includes 1 installation, updates, and email support.
 
 ---
 
-## Screenshot
+## Screenshots
 
 ![Scanner](image/screenshot-scanner.jpeg)
-![Inventario](image/screenshot-inventario.jpeg)
-![Mappa](image/screenshot-mappa.jpeg)
-![Priorità](image/screenshot-priorita.jpeg)
-![Impostazioni](image/screenshot-impostazioni.jpeg)
+![Inventory](image/screenshot-inventario.jpeg)
+![Map](image/screenshot-mappa.jpeg)
+![Priority](image/screenshot-priorita.jpeg)
+![Settings](image/screenshot-impostazioni.jpeg)
 
 ---
 
-## Supporto
+## Support
 
 tiamat19807@gmail.com
