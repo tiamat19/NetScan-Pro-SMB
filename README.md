@@ -1,4 +1,4 @@
-# 📡 NetScan Pro
+# 📡 NetScan Pro SMB
 
 **Cybersecurity Assessment Tool for local networks — for IT consultants and SMBs.**
 
